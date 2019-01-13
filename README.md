@@ -33,6 +33,7 @@ php -S 0.0.0.0:9000
 
 #### Step 3: Start coding
 
+rename ICE_code por ICEcoder
 
 Adecuado para proyectos comerciales y no comerciales, solo avíseme si es útil para usted y para cualquier adaptación que le haga. No me responsabilizo de nada, su uso depende de usted.
 
